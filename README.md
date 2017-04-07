@@ -1,14 +1,14 @@
 SoapForSF2
 ==========
 
-Forked from https://github.com/BeSimple
+Forked from https://github.com/abdeltiflouardi/SoapForSF2.git (which is Forked from https://github.com/BeSimple)
 
 #### INSTALLATION:
 
 
 in your composer.json:
 
-      "os/soap-for-sf2": "dev-master"
+      "janico/soap-for-sf2": "dev-master"
 
 in your terminal:
 

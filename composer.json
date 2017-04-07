@@ -1,13 +1,13 @@
 {
-    "name": "os/soap-for-sf2",
+    "name": "janico/soap-for-sf2",
     "type": "soap-library",
-    "description": "Fork of besimplesoap",
+    "description": "Fork of os/soap-for-sf2 (wich is a fork of besimplesoap)",
     "keywords": ["soap", "symfony2"],
     "license": "MIT",
     "authors": [
         {
-            "name": "LOUARDI Abdeltif",
-            "email": "louardi.abdeltif@yahoo.fr"
+            "name": "Nico Berthy",
+            "email": "janiico@yahoo.fr"
         }
     ],
     "require": {
